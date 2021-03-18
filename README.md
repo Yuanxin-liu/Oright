@@ -12,39 +12,39 @@
 
 （1）用户信息表
 
-![](F:\夏季小学期\pics\user.PNG)
+![](https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/user.PNG)
 
 （2）作家信息表
 
-![](F:\夏季小学期\pics\author.PNG)
+![](https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/author.PNG)
 
 （3）公司信息表
 
-![](F:\夏季小学期\pics\firm.PNG)
+![](https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/firm.PNG)
 
 （4）作家关注信息表
 
-![](F:\夏季小学期\pics\concern.PNG)
+![](https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/concern.PNG)
 
 （5）公司关注信息表
 
-![](F:\夏季小学期\pics\concern2.PNG)
+![](https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/concern2.PNG)
 
 （6）作家收藏信息表
 
-![](F:\夏季小学期\pics\favourite.PNG)
+![](https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/favourite.PNG)
 
 （7）公司收藏信息表
 
-![](F:\夏季小学期\pics\favourite2.PNG)
+![](https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/favourite2.PNG)
 
 （8）作家文章信息表
 
-![passage](F:\夏季小学期\pics\passage.PNG)
+![passage](https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/passage.PNG)
 
 ##### 2.功能模块
 
-![功能设计](F:\夏季小学期\pics\功能设计.jpg)
+![功能设计](https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/功能设计.jpg)
 
 
 
@@ -58,19 +58,19 @@
 
 该页面实现注册功能。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\register_a.PNG" alt="register_a" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/register_a.PNG" alt="register_a" style="zoom: 42%;" />
 
 （2）公司注册页面
 
 该页面实现注册功能。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\register_f.PNG" alt="register_f" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/register_f.PNG" alt="register_f" style="zoom: 42%;" />
 
 （3）登录页面 
 
 该页面实现登录功能。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\login.PNG" alt="login" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/login.PNG" alt="login" style="zoom: 42%;" />
 
 ###### 2.作家模块  
 
@@ -80,49 +80,49 @@
 
 该页面作家可查看实时文章，对文章进行收藏，对其他作家进行关注。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\aindex.PNG" alt="index_a" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/aindex.PNG" alt="index_a" style="zoom: 42%;" />
 
 （2）我的关注页面
 
 该页面作家可查看自己关注的作家。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\guanzhu_a.PNG" alt="concern_a" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/guanzhu_a.PNG" alt="concern_a" style="zoom: 42%;" />
 
 （3）我的粉丝页面
 
 该页面作家可查看自己的粉丝。前端设计如下图：
 
-​                         <img src="F:\夏季小学期\pics\fans_a.PNG" alt="ans_a" style="zoom: 42%;" /> 
+​                         <img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/fans_a.PNG" alt="ans_a" style="zoom: 42%;" /> 
 
 （4）发布文章页面
 
   该页面作家可发布文章。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\post.PNG" alt="post_a" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/post.PNG" alt="post_a" style="zoom: 42%;" />
 
 （5）我的发布页面
 
 该页面作家可查看其发布的文章。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\past_a.PNG" alt="passage_a" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/past_a.PNG" alt="passage_a" style="zoom: 42%;" />
 
 （6）我的收藏页面
 
 该页面作家可查看其收藏的文章。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\shou_a.PNG" alt="favourite_a" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/shou_a.PNG" alt="favourite_a" style="zoom: 42%;" />
 
 （7）个人信息
 
 该页面实现个人信息的展示和修改。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\ainfo.PNG" alt="info_a" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/ainfo.PNG" alt="info_a" style="zoom: 42%;" />
 
 （5）修改密码
 
 该页面实现密码的修改。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\apwd.PNG" alt="pwd_a" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/apwd.PNG" alt="pwd_a" style="zoom: 42%;" />
 
  
 
@@ -132,28 +132,28 @@
 
 该页公司用户可查看文章，收藏文章，关注作家。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\finfo.PNG" alt="index_f" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/finfo.PNG" alt="index_f" style="zoom: 42%;" />
 
 （2）我的关注页面 
 
 该页面公司用户可查看其关注的作家。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\guanzhu_f.PNG" alt="concern_f" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/guanzhu_f.PNG" alt="concern_f" style="zoom: 42%;" />
 
 （3）我的收藏页面
 
 该页面公司用户可查看其收藏的文章。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\shou_f.PNG" alt="favourite_f" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/shou_f.PNG" alt="favourite_f" style="zoom: 42%;" />
 
 （4）个人信息页面
 
 该页面可查看和修改个人信息。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\finfo2.PNG" alt="info_f" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/finfo2.PNG" alt="info_f" style="zoom: 42%;" />
 
 （5）修改密码页面
 
 该页面实现密码的修改。前端设计如下图：
 
-<img src="F:\夏季小学期\pics\fpwd.PNG" alt="pwd_f" style="zoom: 42%;" />
+<img src="https://media-yuanxin.oss-cn-hangzhou.aliyuncs.com/orightPic/pics/fpwd.PNG" alt="pwd_f" style="zoom: 42%;" />
